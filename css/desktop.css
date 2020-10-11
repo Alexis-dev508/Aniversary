@@ -1,0 +1,29 @@
+.container{
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-nav
+{
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-footer
+{
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.carrusel{
+    width: 100%;
+}
+.oustress{
+    width: 30%;
+}
+.pomodoro,.fourintasks{
+    width: 50%;
+}
+.{
+    width: 34%;
+} 

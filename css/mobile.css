@@ -19,10 +19,14 @@ html
     background-color: red;
     width: 100vw;
     height: 10vh;
+    
+}
+.main-nav__ul
+{
+    list-style: none;
 }
 .main-nav__ul li a
 {
-    list-style: none;
     text-decoration: none;
     font-size:2rem;
     font-weight: bolder;
