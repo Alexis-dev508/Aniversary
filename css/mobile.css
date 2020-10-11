@@ -16,14 +16,16 @@ html
 .main-nav
 {
     display: flex;
-    background-color: red;
+    background-color: #E91E63;
     width: 100vw;
     height: 10vh;
-    
 }
 .main-nav__ul
 {
     list-style: none;
+    width: 100vw;
+    text-align: center;
+    padding-top: 2vh;
 }
 .main-nav__ul li a
 {
@@ -36,6 +38,10 @@ html
     width: 100vw;
     background-color: blue;
     height: 35vh;
+}
+.carrusel video
+{
+    width: 100vw;
 }
 .c1{
     width: 100vw;
