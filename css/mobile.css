@@ -37,38 +37,63 @@ html
 }
 .carrusel{
     width: 100vw;
-    height: 35vh;
+    height: auto;
 }
 .carrusel img
 {
     width: 100vw;
+    height: auto;
 }
 .c1{
     width: 100vw;
-    height: 20vh;
+    height: auto;
 }
 .outstress
 {
-    background-color: aqua;
-    color: white;
-    font-size: 1.5rem;
-    text-align: center ;
+    margin-top: 1rem;
     height: auto;
     background-color: #fc5293fd;
 }
-.outstress p{
+.parrafo, .lugar
+{
+    color: white;
+    font-size: 1.5rem;
+    text-align: center ;
     font-family: 'Sansita Swashed', cursive;
     text-align: justify;
     margin:1rem;
 }
-
 .pomodoro
 {
-    background-color: blueviolet;
+    background-color: #f777a8fd;
 }
 .fourintasks
 {
-    background-color: aquamarine;
+    background-color:  #fc9bc0fd;
+}
+.s4{
+    background-color: #f09db9;
+}
+.s5{
+    background-color: #f5bccf;
+}
+.s6{
+    background-color: #f8c6d7;
+}
+.s7{
+    background-color: #ff0000;
+}
+.s8{
+    background-color: #fa3d3d;
+}
+.s9{
+    background-color: #ff5d5d;
+}
+.s10{
+    background-color: #ff8282;
+}
+.s11{
+    background-color: #ff9f9f;
 }
 .main-footer
 {
